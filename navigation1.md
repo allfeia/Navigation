@@ -16,9 +16,3 @@
   
 <b> Базы данных (1 курс, 2 семестр):</b>
 - [Лабораторная работа 1. Инфологическая и даталогическая модели, знакомство с Postgresql]( https://github.com/allfeia/ITMO-DataBase-Lab1)
-
-
-- [Лабораторная работа 2. Принципы ООП и диаграммы классов по стандарту UML](https://github.com/alinaagnistova/ITMO/blob/main/programming/lab2)
-- [Лабораторная работа 3. SOLID, интерфейсы, абстрактные классы](https://github.com/alinaagnistova/ITMO/blob/main/programming/lab3v2)
-- [Лабораторная работа 4. Обработка исключений, локальные, анонимные и вложенные классы](https://github.com/alinaagnistova/ITMO/blob/main/programming/lab4) <br>
-- [Лабораторная работа 5. Разработка консольного приложения](https://github.com/alinaagnis
