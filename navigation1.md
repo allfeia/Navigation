@@ -4,6 +4,7 @@
 - [Лабораторная работа 3. Регулярные выражения, языки разметки](https://github.com/allfeia/ITMO-Informatics-Lab3)
 - [Лабораторная работа 4. Начало работы с базами данных (sqlite)](https://github.com/allfeia/ITMO-Informatics-Lab4/tree/main)
 - [Лабораторная работа 5. Создание простейшего сайта на локальном сервере](https://github.com/allfeia/ITMO-Informatics-Lab5/tree/main)
+- [Лабораторная работа 6. Работа в Latex](https://github.com/allfeia/ITMO-Informatics-Lab6/tree/main)
   
 <b> Программирование (1 курс):</b>
 - [Лабораторная работа 1. Основы языка Java](https://github.com/allfeia/Lab1)
