@@ -6,10 +6,11 @@
 - [Лабораторная работа 5. Создание простейшего сайта на локальном сервере](https://github.com/allfeia/ITMO-Informatics-Lab5/tree/main)
 - [Лабораторная работа 6. Работа в Latex](https://github.com/allfeia/ITMO-Informatics-Lab6/tree/main)
 
+
   <b>Основы Профессиональной Деятельности (1 курс, 1 семестр):</b>
 - [Лабораторная работа 1. Основы работы в командной строке Unix](https://github.com/allfeia/ITMO-OPD-Lab1)
 - [Лабораторная работа 2. Устройство БЭВМ и её команды](https://github.com/allfeia/ITMO-OPD-Lab2)
-  
+
 <b> Программирование (1 курс):</b>
 - [Лабораторная работа 1. Основы языка Java](https://github.com/allfeia/Lab1)
 - [Лабораторная работа 2. Принципы ООП и диаграммы классов по стандарту UML](https://github.com/allfeia/ITMO-Prog-Lab2)
