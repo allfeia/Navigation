@@ -2,7 +2,7 @@
 - [Лабораторная работа 1. Системы счисления](https://github.com/allfeia/ITMO-Informatics-Lab1)
 - [Лабораторная работа 2. Помехоустойчивые коды]()
 - [Лабораторная работа 3. Регулярные выражения, языки разметки](https://github.com/allfeia/ITMO-Informatics-Lab3)
-- [Лабораторная работа 4. Начало работы с базами данных (sqlite)]
+- [Лабораторная работа 4. Начало работы с базами данных (sqlite)](https://github.com/allfeia/ITMO-Informatics-Lab4/tree/main)
   
 <b> Программирование (1 курс):</b>
 - [Лабораторная работа 1. Основы языка Java](https://github.com/allfeia/Lab1)
