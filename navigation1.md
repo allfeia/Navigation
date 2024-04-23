@@ -12,10 +12,13 @@
 
 <b> Программирование (1 курс):</b>
 - [Лабораторная работа 1. Основы языка Java](https://github.com/allfeia/Lab1)
+  
 - [Лабораторная работа 2. Принципы ООП и диаграммы классов по стандарту UML](https://github.com/allfeia/ITMO-Prog-Lab2)
 - [Лабораторная работа 3 & 4 SOLID, интерфейсы, абстрактные классы/ Обработка исключений, локальные, анонимные и вложенные классы](https://github.com/allfeia/ITMO-Prog-Lab3_4)
+  
 - [Лабораторная работа 5. Разработка консольного приложения](https://github.com/allfeia/Lab5/tree/master)
   
 <b> Базы данных (1 курс, 2 семестр):</b>
 - [Лабораторная работа 1. Инфологическая и даталогическая модели, Postgresql]( https://github.com/allfeia/ITMO-DataBase-Lab1)
+  
 - [Лабораторная работа 2. Запросы](https://github.com/allfeia/ITMO-DataBase-Lab2)
