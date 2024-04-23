@@ -18,4 +18,4 @@
   
 <b> Базы данных (1 курс, 2 семестр):</b>
 - [Лабораторная работа 1. Инфологическая и даталогическая модели, Postgresql]( https://github.com/allfeia/ITMO-DataBase-Lab1)
-- [Лабораторная работа 2. Запросы]()
+- [Лабораторная работа 2. Запросы](https://github.com/allfeia/ITMO-DataBase-Lab2)
