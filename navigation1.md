@@ -27,4 +27,4 @@
 
 - [Лабораторная работа 3. Нормализация базы данных, функции](https://github.com/allfeia/ITMO-DataBase-Lab3/tree/main)
 
-- [Лабораторная работа 4. Планы выполнения запросов, ооптимизация запросов, индксы](https://github.com/allfeia/ITMO-DataBase-Lab4/tree/main)
+- [Лабораторная работа 4. Планы выполнения запросов, оптимизация запросов, индксы](https://github.com/allfeia/ITMO-DataBase-Lab4/tree/main)
