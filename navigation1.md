@@ -26,3 +26,5 @@
 - [Лабораторная работа 2. Запросы](https://github.com/allfeia/ITMO-DataBase-Lab2)
 
 - [Лабораторная работа 3. Нормализация базы данных, функции](https://github.com/allfeia/ITMO-DataBase-Lab3/tree/main)
+
+- [Лабораторная работа 4. Планы выполнения запросов, ооптимизация запросов, индксы](https://github.com/allfeia/ITMO-DataBase-Lab4/tree/main)
