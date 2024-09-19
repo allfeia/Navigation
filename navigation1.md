@@ -19,6 +19,8 @@
 - [Лабораторная работа 5. Разработка консольного приложения](https://github.com/allfeia/Lab5/tree/master)
 
 - [Лабораторная работа 6. Клинет-серверная архитектура](https://github.com/allfeia/ITMO-Prog-Lab6)
+
+- [Лабораторная работа 7. Многопоточность, работа с базами данных (+ токены)](https://github.com/allfeia/ITMO-Prog-Lab7)
   
 <b> Базы данных (1 курс, 2 семестр):</b>
 - [Лабораторная работа 1. Инфологическая и даталогическая модели, Postgresql]( https://github.com/allfeia/ITMO-DataBase-Lab1)
