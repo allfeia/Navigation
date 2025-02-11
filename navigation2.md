@@ -6,5 +6,7 @@
 
 - [Лабораторная работа 3](https://github.com/allfeia/ITMO-Web-Lab3/tree/master) `JSF+CSS+JS+Java+Hibernate`
 
+- [Лабораторная работа 4](https://github.com/allfeia/ITMO-Web-Lab4/tree/main) `React+Spring`
+
 
 
