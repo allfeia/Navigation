@@ -16,7 +16,7 @@
     
     - [Задача: Премещай скобки]()
     
-    - [Задача: Продажа лопат]()
+    - [Задача: Продажа лопат](https://github.com/allfeia/ITMO-Algorithms-ShovelsSale)
 
 
 
