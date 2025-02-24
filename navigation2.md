@@ -14,9 +14,9 @@
 <b>Алгоритмы и структуры данных (2 курс, 4 семестр)</b></br>
     Введение:</br>
     
-    - [Задача: Премещай скобки]()
+  - [Задача: Премещай скобки]()
     
-    - [Задача: Продажа лопат](https://github.com/allfeia/ITMO-Algorithms-ShovelsSale)
+  - [Задача: Продажа лопат](https://github.com/allfeia/ITMO-Algorithms-ShovelsSale)
 
 
 
