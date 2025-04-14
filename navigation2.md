@@ -14,12 +14,10 @@
 <b>Физика (2 курс, 3 семестр)</b>
   - [Лабораторные работы 1.01 - 1.05](https://github.com/allfeia/ITMO-Physics-Labs1)
  
-<b>Алгоритмы и структуры данных (2 курс, 4 семестр)</b></br>
-    Введение:</br>
-    
-  - [Задача: Премещай скобки](https://github.com/allfeia/ITMO-Algorithms-MoveBrackets/tree/master)
-    
-  - [Задача: Продажа лопат](https://github.com/allfeia/ITMO-Algorithms-ShovelsSale)
+<b>Основы программной инженерии (2 курс, 4 семестр)</b></br>
+
+  - [Лабораторная работа 1: SRS]()
+   
 
 
 
