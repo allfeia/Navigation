@@ -18,7 +18,7 @@
 
   - [Лабораторная работа 1: SRS](https://github.com/allfeia/ITMO-OPI-Lab1)
 
-  - [Лабораторная работа 2: Системы контроля версий (git и svn)]()
+  - [Лабораторная работа 2: Системы контроля версий (git и svn)](https://github.com/allfeia/ITMO-OPI-Lab2)
    
 
 
