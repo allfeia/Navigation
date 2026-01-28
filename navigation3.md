@@ -1,14 +1,14 @@
 <b>Системы искуственного интеллекта (3 курс, 5 семестр)</b>
 
-- [Лабораторная работа 1: Линейная и логистическая регрессия]()
+- [Лабораторная работа 1: Линейная и логистическая регрессия](https://github.com/allfeia/ITMO-SAI-LABS/tree/main/lab1)
 
-- [Лабораторная работа 2: Регуляризация (L1, L2, ElasticNet) и KNN]()
+- [Лабораторная работа 2: Регуляризация (L1, L2, ElasticNet) и KNN](https://github.com/allfeia/ITMO-SAI-LABS/tree/main/lab2)
 
-- [Лабораторная работа 3: SVM на датасете потенцелов P300]()
+- [Лабораторная работа 3: SVM на датасете потенцелов P300](https://github.com/allfeia/ITMO-SAI-LABS/tree/main/lab3)
 
-- [Лабораторная работа 4: DecisionTree, RandomForest, GredientBoosting, ]()
+- [Лабораторная работа 4: DecisionTree, RandomForest, GredientBoosting](https://github.com/allfeia/ITMO-SAI-LABS/tree/main/lab4)
 
-- [Лабораторная работа 5: Нейронная сеть на датасете с циферками]()
+- [Лабораторная работа 5: Нейронная сеть на датасете с циферками](https://github.com/allfeia/ITMO-SAI-LABS/tree/main/lab5)
 
 
 <b>Нейроинформатика (3 курс, 5 семестр)</b>
