@@ -15,11 +15,11 @@
 
 - [Лабораторная работа 1: Гипперпараметры модели нейронной сети](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab1)
 
-- [Лабораторная работа 1: Сверточная нейронная сеть](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab2)
+- [Лабораторная работа 2: Сверточная нейронная сеть](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab2)
 
-- [Лабораторная работа 1: Классификация текста с использованием нейронных сетей](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab3)
+- [Лабораторная работа 3: Классификация текста с использованием нейронных сетей](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab3)
 
-- [Лабораторная работа 1: Дообучение и тонкая настройка нейронных сетей (VGG16, ResNet50)](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab4)
+- [Лабораторная работа 4: Дообучение и тонкая настройка нейронных сетей (VGG16, ResNet50)](https://github.com/allfeia/ITMO-NeuroInf-LABS/tree/main/lab4)
 
 
 <b>Нейрофизиология (3 курс, 5 семестр)</b>
